@@ -1,0 +1,72 @@
+E:\MicroFin\MicroFin\MicroFin\bin\Debug\Database1.sdf
+E:\MicroFin\MicroFin\MicroFin\bin\Debug\MicroFin.exe.config
+E:\MicroFin\MicroFin\MicroFin\bin\Debug\MicroFin.exe
+E:\MicroFin\MicroFin\MicroFin\bin\Debug\MicroFin.pdb
+E:\MicroFin\MicroFin\MicroFin\bin\Debug\MicroFin.xml
+E:\MicroFin\MicroFin\MicroFin\obj\x86\Debug\MicroFin.conn.resources
+E:\MicroFin\MicroFin\MicroFin\obj\x86\Debug\MicroFin.frm_members.resources
+E:\MicroFin\MicroFin\MicroFin\obj\x86\Debug\MicroFin.Frm_users.resources
+E:\MicroFin\MicroFin\MicroFin\obj\x86\Debug\MicroFin.Resources.resources
+E:\MicroFin\MicroFin\MicroFin\obj\x86\Debug\MicroFin.vbproj.GenerateResource.Cache
+E:\MicroFin\MicroFin\MicroFin\obj\x86\Debug\MicroFin.exe
+E:\MicroFin\MicroFin\MicroFin\obj\x86\Debug\MicroFin.xml
+E:\MicroFin\MicroFin\MicroFin\obj\x86\Debug\MicroFin.pdb
+\\MARVELS\MicroFin\MicroFin\MicroFin\bin\Debug\MicroFin.exe.config
+\\MARVELS\MicroFin\MicroFin\MicroFin\obj\x86\Debug\MicroFin.exe
+\\MARVELS\MicroFin\MicroFin\MicroFin\obj\x86\Debug\MicroFin.xml
+\\MARVELS\MicroFin\MicroFin\MicroFin\obj\x86\Debug\MicroFin.pdb
+\\MARVELS\MicroFin\MicroFin\MicroFin\obj\x86\Debug\MicroFin.conn.resources
+\\MARVELS\MicroFin\MicroFin\MicroFin\obj\x86\Debug\MicroFin.frm_members.resources
+\\MARVELS\MicroFin\MicroFin\MicroFin\obj\x86\Debug\MicroFin.Frm_users.resources
+\\MARVELS\MicroFin\MicroFin\MicroFin\obj\x86\Debug\MicroFin.Resources.resources
+\\MARVELS\MicroFin\MicroFin\MicroFin\obj\x86\Debug\MicroFin.vbproj.GenerateResource.Cache
+\\MARVELS\MicroFin\MicroFin\MicroFin\bin\Debug\Database1.sdf
+\\MARVELS\MicroFin\MicroFin\MicroFin\bin\Debug\MicroFin.exe
+\\MARVELS\MicroFin\MicroFin\MicroFin\bin\Debug\MicroFin.pdb
+\\MARVELS\MicroFin\MicroFin\MicroFin\bin\Debug\MicroFin.xml
+E:\MicroFin\MicroFin\MicroFin\obj\x86\Debug\MicroFin.vbprojResolveAssemblyReference.cache
+E:\MicroFin\MicroFin\MicroFin\obj\x86\Debug\MicroFin.frmregistrationholder.resources
+E:\MicroFin\MicroFin\MicroFin\obj\x86\Debug\MicroFin.frmstudentview.resources
+C:\Users\Imbs\Desktop\New folder\MicroFin\MicroFin\bin\Debug\MicroFin.exe.config
+C:\Users\Imbs\Desktop\New folder\MicroFin\MicroFin\obj\x86\Debug\MicroFin.exe
+C:\Users\Imbs\Desktop\New folder\MicroFin\MicroFin\obj\x86\Debug\MicroFin.xml
+C:\Users\Imbs\Desktop\New folder\MicroFin\MicroFin\obj\x86\Debug\MicroFin.pdb
+C:\Users\Imbs\Desktop\New folder\MicroFin\MicroFin\obj\x86\Debug\MicroFin.vbprojResolveAssemblyReference.cache
+C:\Users\Imbs\Desktop\New folder\MicroFin\MicroFin\obj\x86\Debug\MicroFin.conn.resources
+C:\Users\Imbs\Desktop\New folder\MicroFin\MicroFin\obj\x86\Debug\MicroFin.frmmember_view.resources
+C:\Users\Imbs\Desktop\New folder\MicroFin\MicroFin\obj\x86\Debug\MicroFin.frm_members.resources
+C:\Users\Imbs\Desktop\New folder\MicroFin\MicroFin\obj\x86\Debug\MicroFin.Frm_users.resources
+C:\Users\Imbs\Desktop\New folder\MicroFin\MicroFin\obj\x86\Debug\MicroFin.frm_User_view.resources
+C:\Users\Imbs\Desktop\New folder\MicroFin\MicroFin\obj\x86\Debug\MicroFin.Resources.resources
+C:\Users\Imbs\Desktop\New folder\MicroFin\MicroFin\obj\x86\Debug\MicroFin.vbproj.GenerateResource.Cache
+C:\Users\Imbs\Desktop\New folder\MicroFin\MicroFin\bin\Debug\MicroFin.exe
+C:\Users\Imbs\Desktop\New folder\MicroFin\MicroFin\bin\Debug\MicroFin.pdb
+C:\Users\Imbs\Desktop\New folder\MicroFin\MicroFin\bin\Debug\MicroFin.xml
+C:\Users\Imbs\Desktop\VB Projects\MicroFin\MicroFin\bin\Debug\MicroFin.exe.config
+C:\Users\Imbs\Desktop\VB Projects\MicroFin\MicroFin\obj\x86\Debug\MicroFin.exe
+C:\Users\Imbs\Desktop\VB Projects\MicroFin\MicroFin\obj\x86\Debug\MicroFin.xml
+C:\Users\Imbs\Desktop\VB Projects\MicroFin\MicroFin\obj\x86\Debug\MicroFin.pdb
+C:\Users\Imbs\Desktop\VB Projects\MicroFin\MicroFin\obj\x86\Debug\MicroFin.vbprojResolveAssemblyReference.cache
+C:\Users\Imbs\Desktop\VB Projects\MicroFin\MicroFin\obj\x86\Debug\MicroFin.conn.resources
+C:\Users\Imbs\Desktop\VB Projects\MicroFin\MicroFin\obj\x86\Debug\MicroFin.frmmember_view.resources
+C:\Users\Imbs\Desktop\VB Projects\MicroFin\MicroFin\obj\x86\Debug\MicroFin.frm_members.resources
+C:\Users\Imbs\Desktop\VB Projects\MicroFin\MicroFin\obj\x86\Debug\MicroFin.frm_User_view.resources
+C:\Users\Imbs\Desktop\VB Projects\MicroFin\MicroFin\obj\x86\Debug\MicroFin.Resources.resources
+C:\Users\Imbs\Desktop\VB Projects\MicroFin\MicroFin\obj\x86\Debug\MicroFin.vbproj.GenerateResource.Cache
+C:\Users\Imbs\Desktop\VB Projects\MicroFin\MicroFin\bin\Debug\MicroFin.exe
+C:\Users\Imbs\Desktop\VB Projects\MicroFin\MicroFin\bin\Debug\MicroFin.pdb
+C:\Users\Imbs\Desktop\VB Projects\MicroFin\MicroFin\bin\Debug\MicroFin.xml
+C:\Users\Imbs\Desktop\VB Projects\MicroFin\MicroFin\obj\x86\Debug\MicroFin.frm_bank.resources
+C:\Users\Imbs\Desktop\VB Projects\MicroFin\MicroFin\obj\x86\Debug\MicroFin.frm_payments.resources
+C:\Users\Imbs\Desktop\VB Projects\MicroFin\MicroFin\obj\x86\Debug\MicroFin.frmbank_view.resources
+C:\Users\Imbs\Desktop\VB Projects\MicroFin\MicroFin\obj\x86\Debug\MicroFin.frmpayments_view.resources
+C:\Users\Imbs\Desktop\VB Projects\MicroFin\MicroFin\obj\x86\Debug\MicroFin.frm_paymethods.resources
+C:\Users\Imbs\Desktop\VB Projects\MicroFin\MicroFin\obj\x86\Debug\MicroFin.frm_farminputs.resources
+C:\Users\Imbs\Desktop\VB Projects\MicroFin\MicroFin\obj\x86\Debug\MicroFin.frmfarminputs_view.resources
+C:\Users\Imbs\Desktop\VB Projects\MicroFin\MicroFin\obj\x86\Debug\MicroFin.frm_supplies.resources
+C:\Users\Imbs\Desktop\VB Projects\MicroFin\MicroFin\obj\x86\Debug\MicroFin.frm_suppliers.resources
+C:\Users\Imbs\Desktop\VB Projects\MicroFin\MicroFin\obj\x86\Debug\MicroFin.frmsuppliers_view.resources
+C:\Users\Imbs\Desktop\VB Projects\MicroFin\MicroFin\obj\x86\Debug\MicroFin.frmsupplies_view.resources
+C:\Users\Imbs\Desktop\VB Projects\MicroFin\MicroFin\obj\x86\Debug\MicroFin.frminvoices_view.resources
+C:\Users\Imbs\Desktop\VB Projects\MicroFin\MicroFin\obj\x86\Debug\MicroFin.frm_invoices.resources
+C:\Users\Imbs\Desktop\VB Projects\MicroFin\MicroFin\obj\x86\Debug\MicroFin.frm_farmproduce.resources
